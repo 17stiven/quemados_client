@@ -1,0 +1,11 @@
+@import './sass/index.scss';
+
+.App {
+h1{
+  color: $primary-color;
+}
+p{
+  color: $success-color;
+}
+}
+
